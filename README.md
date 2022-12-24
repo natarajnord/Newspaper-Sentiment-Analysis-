@@ -5,6 +5,7 @@ Welcome to the Newspaper Sentiment Analysis project! This project allows you to 
 **Prerequisites**
 
 Before you begin, make sure you have the following software installed on your machine:
+
 1.Python 3.x
 
 2.Pip (Python package manager)
