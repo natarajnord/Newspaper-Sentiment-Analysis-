@@ -6,12 +6,15 @@ Welcome to the Newspaper Sentiment Analysis project! This project allows you to 
 
 Before you begin, make sure you have the following software installed on your machine:
 1.Python 3.x
+
 2.Pip (Python package manager)
 
 **Installation**
 
 1.Clone this repository to your local machine using git clone https://github.com/your-username/newspaper-sentiment-analysis.git.
+
 2.Navigate to the project directory using cd newspaper-sentiment-analysis.
+
 3.Install the required libraries using pip install -r requirements.txt.\
 
 **Usage**
